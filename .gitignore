@@ -1,0 +1,25 @@
+# ROMs e saves (pesados e pessoais)
+roms/
+*.iso
+*.pkg
+*.rap
+*.edat
+
+# ROMs (any emulator)
+**/roms/
+
+# Saves backup
+**/saves_backup/
+
+# Bios
+**/bios/
+
+# Firmware
+**/firmware/
+
+# Caches do RPCS3 (gerados automaticamente)
+emulators/rpcs3/configs/dev_hdd0/
+emulators/rpcs3/configs/cache/
+emulators/rpcs3/configs/shaderscache/
+emulators/rpcs3/configs/captures/
+emulators/rpcs3/configs/logs/
