@@ -1,6 +1,6 @@
 # tun-emu-setup
 
-A Windows emulator setup automated with Scoop and Just.
+A self-contained Windows gaming setup that automates the installation and configuration of PS3 emulation using Scoop as a package manager and Just as a command runner. Clone the repo, run two commands, and you're ready to play.
 
 ## Requirements
 
